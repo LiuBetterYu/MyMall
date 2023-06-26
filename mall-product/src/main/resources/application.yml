@@ -2,7 +2,7 @@ spring:
   datasource:
     username: root
     password: 1234
-    url: jdbc:mysql://192.168.74.128:3306/mall-pms
+    url: jdbc:mysql://192.168.153.128:3306/mall-pms
     driver-class-name: com.mysql.cj.jdbc.Driver
   cloud:
     nacos:
